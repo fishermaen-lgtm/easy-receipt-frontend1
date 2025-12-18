@@ -8,16 +8,16 @@ export default function App() {
       color: 'white'
     }}>
       <h1 style={{ fontSize: '48px', marginBottom: '20px' }}>
-        🎉 Easy Receipt - TEST
+        Easy Receipt - TEST VERSION
       </h1>
       <p style={{ fontSize: '24px', marginBottom: '20px' }}>
-        ✅ React läuft!
+        React laeuft!
       </p>
       <p style={{ fontSize: '18px', marginBottom: '10px' }}>
-        ✅ Vite funktioniert!
+        Vite funktioniert!
       </p>
       <p style={{ fontSize: '18px', marginBottom: '10px' }}>
-        ✅ Vercel Deployment erfolgreich!
+        Vercel Deployment erfolgreich!
       </p>
       <div style={{
         marginTop: '40px',
@@ -26,12 +26,8 @@ export default function App() {
         color: 'black',
         borderRadius: '10px'
       }}>
-        <h2>Nächste Schritte:</h2>
-        <ol>
-          <li>Wenn du das siehst, funktioniert alles! 🎊</li>
-          <li>Wir können jetzt die echte App hinzufügen</li>
-          <li>Backend-Verbindung testen</li>
-        </ol>
+        <h2>SUCCESS!</h2>
+        <p>Wenn du das siehst, funktioniert ALLES!</p>
       </div>
     </div>
   );

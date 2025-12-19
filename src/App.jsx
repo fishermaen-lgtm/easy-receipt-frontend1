@@ -1,3 +1,5 @@
+import React from 'react'
+
 export default function App() {
   return (
     <div style={{
@@ -11,13 +13,13 @@ export default function App() {
         Easy Receipt - TEST VERSION
       </h1>
       <p style={{ fontSize: '24px', marginBottom: '20px' }}>
-        React laeuft!
+        React startet!
       </p>
       <p style={{ fontSize: '18px', marginBottom: '10px' }}>
         Vite funktioniert!
       </p>
       <p style={{ fontSize: '18px', marginBottom: '10px' }}>
-        Vercel Deployment erfolgreich!
+        Vercel auch erfolgreich!
       </p>
       <div style={{
         marginTop: '40px',
